@@ -7,8 +7,7 @@ Program ini bertujuan untuk mengambil data berita dari beberapa situs dengan ban
 
 Cara menggunakan :
 
-0. Buka terminal
-1. Masuk ke direktori semoge berhasil
+1. Buka termina
 2. Execute perintah "pip install -r requirements.txt" di terminal
 3. Masuk ke folder nama situs.
 4. Execute perintah "python <nama_file_situs>.py". contoh "python antara.py"
